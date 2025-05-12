@@ -10,6 +10,7 @@ casesm2_10km_nocumulus: Likely a configuration of the Community Atmosphere Model
 🔷 ICON (ICOsahedral Nonhydrostatic Model)
 icon_d3hp003, icon_d3hp003aug, icon_d3hp003feb: ICON model simulations, with different configurations or time periods (e.g., August or February runs).
 icon_ngc4008: ICON simulation with a specific grid configuration (possibly NGC4008 grid).
+
 🌀 IFS (ECMWF Integrated Forecasting System)
 ifs_tco3999-ng5_deepoff: High-resolution (~5 km) IFS simulation with deep convection parameterization turned off.
 ifs_tco3999-ng5_rcbmf / rcbmf_cf: Variants using different radiation–convection–boundary layer schemes or cloud fraction schemes.

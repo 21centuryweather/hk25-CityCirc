@@ -5,7 +5,8 @@ Project description, please include the main idea and questions that motivate th
 
 **Project leads:** Jiachen Lu, UNSW/jiachenlumet
 
-**Project members:** name, affiliation/github username
+**Project members:** Maryam Fazeli, UNSW/m.fazeli@unsw.edu.au
+Rachel Taylor, unisq/Rachel.taylor@unisq.edu.au
 
 **Collaborators:** list here other collaborators to the project.
 

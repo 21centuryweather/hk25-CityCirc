@@ -5,8 +5,9 @@ Project description, please include the main idea and questions that motivate th
 
 **Project leads:** Jiachen Lu, UNSW/jiachenlumet
 
-**Project members:** name, affiliation/github username
-		     Ankit Bhadouriya, UniMelb/ankitsb
+**Project members:** 
+		     Ankit Bhadouriya, UniMelb/ankitsb;
+		     name, affiliation/github username;
 
 **Collaborators:** list here other collaborators to the project.
 

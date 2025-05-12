@@ -2,7 +2,6 @@ import matplotlib.pyplot as plt
 import cartopy.crs as ccrs
 import cartopy.feature as cf
 import easygems.healpix as egh
-import osmnx as ox
 from shapely.geometry import mapping
 from cartopy.feature import ShapelyFeature
 import intake

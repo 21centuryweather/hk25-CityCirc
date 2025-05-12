@@ -7,7 +7,8 @@ Project description, please include the main idea and questions that motivate th
 
 **Project members:** 
 		     Ankit Bhadouriya, UniMelb/ankitsb;
-		     name, affiliation/github username;
+		     Maryam Fazeli, UNSW/m.fazeli@unsw.edu.au;
+		     Shankar Sharma, UNSW/shankar.sharma@unsw.edu.au;
 
 **Collaborators:** list here other collaborators to the project.
 
